@@ -1,4 +1,0 @@
-ExpiresActive On
-ExpiresByType image/png "access plus 1 month"
-ExpiresByType image/jpg "access plus 1 month"
-ExpiresByType image/x-icon "access plus 1 month"
